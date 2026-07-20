@@ -1,16 +1,3 @@
-// export const services = [
-//     "Aadhaar Services",
-//     "PAN Card",
-//     "Passport",
-//     "Ayushman Card",
-//     "Ration Card",
-//     "Driving License",
-//     "Voter ID",
-//     "Pension KYC",
-//     "Scholarship Forms",
-//     "Print & Scan",
-//   ];
-
 export const services = [
     {
       name: "Aadhaar Services",
